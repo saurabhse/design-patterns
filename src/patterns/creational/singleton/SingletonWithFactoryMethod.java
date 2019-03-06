@@ -1,4 +1,4 @@
-package design.java.singleton;
+package patterns.creational.singleton;
 
 public class SingletonWithFactoryMethod {
 
