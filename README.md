@@ -7,6 +7,7 @@
       
       - Creational
           - Singleton
+          - Factory
           
       - Behavioural
       
